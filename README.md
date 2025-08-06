@@ -16,11 +16,11 @@ The script performs both encoding and decoding using a bitwise XOR approach. It 
 ## 📂 Project Structure
 ```text
 steganography-xor/
-├── steganography.py                # Main script for both encoding and decoding
-├── sample_input.png                # Input image for encoding
-├── encryption_sample.png           # Sample Demonstration of Encryption 
-├── decryption_smaple.png           # Sample Demonstration of Decryption
-└── README.md                       # Project documentation
+├── steganography.ipynb      # Main script for both encoding and decoding
+├── sample_input.png         # Input image for encoding
+├── encryption.png           # Sample Demonstration of Encryption 
+├── decryption.png           # Sample Demonstration of Decryption
+└── README.md                # Project documentation
 
 
 ```
